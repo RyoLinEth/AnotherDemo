@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AnotherDemo/static/css/main.b4f9ca8b.css",
-    "main.js": "/AnotherDemo/static/js/main.e6da3147.js",
+    "main.css": "/AnotherDemo/static/css/main.dd0a6dcb.css",
+    "main.js": "/AnotherDemo/static/js/main.2e53ee37.js",
     "static/js/787.86d1fdd7.chunk.js": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js",
-    "static/media/rat.mp4": "/AnotherDemo/static/media/rat.46cd672baa0ebf4c270c.mp4",
+    "static/media/wheel.mp4": "/AnotherDemo/static/media/wheel.45d9e6bc652ef076d5f9.mp4",
     "static/media/FOXTLottery.png": "/AnotherDemo/static/media/FOXTLottery.eb9540f8972f7d5da7ae.png",
     "static/media/FOXTBanner3.png": "/AnotherDemo/static/media/FOXTBanner3.823ee1cf7baeafbd5165.png",
     "static/media/win1.png": "/AnotherDemo/static/media/win1.ef2b954360851144e1d8.png",
     "static/media/win2.png": "/AnotherDemo/static/media/win2.2341e46558edea14e325.png",
     "static/media/win3.png": "/AnotherDemo/static/media/win3.8e27436898bc06e02d7c.png",
     "index.html": "/AnotherDemo/index.html",
-    "main.b4f9ca8b.css.map": "/AnotherDemo/static/css/main.b4f9ca8b.css.map",
-    "main.e6da3147.js.map": "/AnotherDemo/static/js/main.e6da3147.js.map",
+    "main.dd0a6dcb.css.map": "/AnotherDemo/static/css/main.dd0a6dcb.css.map",
+    "main.2e53ee37.js.map": "/AnotherDemo/static/js/main.2e53ee37.js.map",
     "787.86d1fdd7.chunk.js.map": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4f9ca8b.css",
-    "static/js/main.e6da3147.js"
+    "static/css/main.dd0a6dcb.css",
+    "static/js/main.2e53ee37.js"
   ]
 }
