@@ -1,33 +1,32 @@
 {
   "files": {
-    "main.css": "/AnotherDemo/static/css/main.213f86ac.css",
-    "main.js": "/AnotherDemo/static/js/main.69ad4e39.js",
+    "main.css": "/AnotherDemo/static/css/main.07ea56a3.css",
+    "main.js": "/AnotherDemo/static/js/main.a449eef1.js",
     "static/js/787.86d1fdd7.chunk.js": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js",
     "static/media/wheel.mp4": "/AnotherDemo/static/media/wheel.45d9e6bc652ef076d5f9.mp4",
     "static/media/FOXTLottery.png": "/AnotherDemo/static/media/FOXTLottery.eb9540f8972f7d5da7ae.png",
-    "static/media/FOXDS.png": "/AnotherDemo/static/media/FOXDS.a28df5220159dd511b17.png",
-    "static/media/FOXLS.png": "/AnotherDemo/static/media/FOXLS.dae520d8589e7231dc3d.png",
-    "static/media/FOXTDS.png": "/AnotherDemo/static/media/FOXTDS.4009f2358629c9cf0178.png",
-    "static/media/FOXTLS.png": "/AnotherDemo/static/media/FOXTLS.2acb381192368b253c22.png",
-    "static/media/gameBG2.png": "/AnotherDemo/static/media/gameBG2.4fdb963fe2c21ed6f693.png",
-    "static/media/PCFOXDS.png": "/AnotherDemo/static/media/PCFOXDS.29f723b5a2e93c929efa.png",
-    "static/media/PCFOXLS.png": "/AnotherDemo/static/media/PCFOXLS.48a5e9f15f08db2fc52f.png",
-    "static/media/PCFOXTDS.png": "/AnotherDemo/static/media/PCFOXTDS.cb3aecf6e56454a1f285.png",
-    "static/media/PCFOXTLS.png": "/AnotherDemo/static/media/PCFOXTLS.34b804c54e71c104435e.png",
     "static/media/FOXTBanner3.png": "/AnotherDemo/static/media/FOXTBanner3.823ee1cf7baeafbd5165.png",
     "static/media/wheel.jpg": "/AnotherDemo/static/media/wheel.d6e558b025dc455e0a46.jpg",
-    "static/media/gameBG3.png": "/AnotherDemo/static/media/gameBG3.c09f79010a2febf840a0.png",
+    "static/media/gameBG7.png": "/AnotherDemo/static/media/gameBG7.376da6b74b99755e2507.png",
+    "static/media/20.png": "/AnotherDemo/static/media/20.fa8644841e55dd66d756.png",
+    "static/media/22.png": "/AnotherDemo/static/media/22.6255240a4d4dd3c7c40b.png",
+    "static/media/19.png": "/AnotherDemo/static/media/19.527a6bb00cabda983cef.png",
+    "static/media/21.png": "/AnotherDemo/static/media/21.0edb4d62cac0603f588a.png",
+    "static/media/16.png": "/AnotherDemo/static/media/16.c5b204268bce5b70387b.png",
+    "static/media/18.png": "/AnotherDemo/static/media/18.076cc34863c0264f86b7.png",
+    "static/media/15.png": "/AnotherDemo/static/media/15.aba517536f1364c9ef46.png",
+    "static/media/17.png": "/AnotherDemo/static/media/17.a9f6d36f3a250865cf29.png",
     "static/media/Ranking.png": "/AnotherDemo/static/media/Ranking.b625af0b49d85dd5f08e.png",
     "static/media/win1.png": "/AnotherDemo/static/media/win1.ef2b954360851144e1d8.png",
     "static/media/win2.png": "/AnotherDemo/static/media/win2.2341e46558edea14e325.png",
     "static/media/win3.png": "/AnotherDemo/static/media/win3.8e27436898bc06e02d7c.png",
     "index.html": "/AnotherDemo/index.html",
-    "main.213f86ac.css.map": "/AnotherDemo/static/css/main.213f86ac.css.map",
-    "main.69ad4e39.js.map": "/AnotherDemo/static/js/main.69ad4e39.js.map",
+    "main.07ea56a3.css.map": "/AnotherDemo/static/css/main.07ea56a3.css.map",
+    "main.a449eef1.js.map": "/AnotherDemo/static/js/main.a449eef1.js.map",
     "787.86d1fdd7.chunk.js.map": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.213f86ac.css",
-    "static/js/main.69ad4e39.js"
+    "static/css/main.07ea56a3.css",
+    "static/js/main.a449eef1.js"
   ]
 }
