@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/AnotherDemo/static/css/main.f41f0a5a.css",
-    "main.js": "/AnotherDemo/static/js/main.cb6cf1a2.js",
+    "main.css": "/AnotherDemo/static/css/main.940eb2fe.css",
+    "main.js": "/AnotherDemo/static/js/main.2fe4ff18.js",
     "static/js/787.86d1fdd7.chunk.js": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js",
     "static/media/wheel.mp4": "/AnotherDemo/static/media/wheel.45d9e6bc652ef076d5f9.mp4",
     "static/media/FOXTLottery.png": "/AnotherDemo/static/media/FOXTLottery.eb9540f8972f7d5da7ae.png",
+    "static/media/FOXDS.png": "/AnotherDemo/static/media/FOXDS.a28df5220159dd511b17.png",
+    "static/media/FOXLS.png": "/AnotherDemo/static/media/FOXLS.dae520d8589e7231dc3d.png",
+    "static/media/FOXTDS.png": "/AnotherDemo/static/media/FOXTDS.4009f2358629c9cf0178.png",
+    "static/media/FOXTLS.png": "/AnotherDemo/static/media/FOXTLS.2acb381192368b253c22.png",
+    "static/media/gameBG2.png": "/AnotherDemo/static/media/gameBG2.4fdb963fe2c21ed6f693.png",
+    "static/media/PCFOXDS.png": "/AnotherDemo/static/media/PCFOXDS.29f723b5a2e93c929efa.png",
+    "static/media/PCFOXLS.png": "/AnotherDemo/static/media/PCFOXLS.48a5e9f15f08db2fc52f.png",
+    "static/media/PCFOXTDS.png": "/AnotherDemo/static/media/PCFOXTDS.cb3aecf6e56454a1f285.png",
+    "static/media/PCFOXTLS.png": "/AnotherDemo/static/media/PCFOXTLS.34b804c54e71c104435e.png",
+    "static/media/gameBG.png": "/AnotherDemo/static/media/gameBG.6269c759e42b8972c773.png",
     "static/media/FOXTBanner3.png": "/AnotherDemo/static/media/FOXTBanner3.823ee1cf7baeafbd5165.png",
     "static/media/Ranking.png": "/AnotherDemo/static/media/Ranking.b625af0b49d85dd5f08e.png",
     "static/media/win1.png": "/AnotherDemo/static/media/win1.ef2b954360851144e1d8.png",
     "static/media/win2.png": "/AnotherDemo/static/media/win2.2341e46558edea14e325.png",
     "static/media/win3.png": "/AnotherDemo/static/media/win3.8e27436898bc06e02d7c.png",
     "index.html": "/AnotherDemo/index.html",
-    "main.f41f0a5a.css.map": "/AnotherDemo/static/css/main.f41f0a5a.css.map",
-    "main.cb6cf1a2.js.map": "/AnotherDemo/static/js/main.cb6cf1a2.js.map",
+    "main.940eb2fe.css.map": "/AnotherDemo/static/css/main.940eb2fe.css.map",
+    "main.2fe4ff18.js.map": "/AnotherDemo/static/js/main.2fe4ff18.js.map",
     "787.86d1fdd7.chunk.js.map": "/AnotherDemo/static/js/787.86d1fdd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f41f0a5a.css",
-    "static/js/main.cb6cf1a2.js"
+    "static/css/main.940eb2fe.css",
+    "static/js/main.2fe4ff18.js"
   ]
 }
